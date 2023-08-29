@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kee950909
 - 👀 I’m interested in any form of outdoor recreation!
 - 🌱 I’m currently learning html and css!
-- 💞️ I’m looking to collaborate on web development skill building projects!
+- 💞️ I’m looking to focus on web development skill building projects!
 - 📫 How to reach me: kevin.e.evers@gmail.com
 
 <!---
